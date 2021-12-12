@@ -1,0 +1,29 @@
+{
+  "name": "employee",
+  "version": "1.0.0",
+  "description": "Nodejs Crud API  without any dependecies pure nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vahapgencdal/nodejs_employee_crud_vanilla.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Vahap Gencdal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vahapgencdal/nodejs_employee_crud_vanilla/issues"
+  },
+  "homepage": "https://github.com/vahapgencdal/nodejs_employee_crud_vanilla#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
